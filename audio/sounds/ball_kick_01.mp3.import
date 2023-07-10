@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/ball_kick_01.mp3-a65c5645ee4fe578ad1dfc0b8c102202.mp3str"
+
+[deps]
+
+source_file="res://build/audio/sounds/ball_kick_01.mp3"
+dest_files=[ "res://.import/ball_kick_01.mp3-a65c5645ee4fe578ad1dfc0b8c102202.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
