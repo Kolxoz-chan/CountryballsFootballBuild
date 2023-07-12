@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/goal.mp3-18313d63502864e84e6012c2770c6cd6.mp3str"
+
+[deps]
+
+source_file="res://audio/sounds/goal.mp3"
+dest_files=[ "res://.import/goal.mp3-18313d63502864e84e6012c2770c6cd6.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
